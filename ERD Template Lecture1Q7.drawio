@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="GUxE24pPK0IGaRTbN8Cr" name="Page-1">
-    <mxGraphModel dx="1135" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="536" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -252,6 +252,27 @@
         </mxCell>
         <mxCell id="tiVoxf1GubQrtwCmeqK4-5" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#5A418C;align=left;" value="&lt;h1&gt;Instructions&lt;/h1&gt;&lt;p&gt;&lt;span&gt;Copy elements to create your ERD.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Add attributes by &lt;i&gt;RIGHT-CLICKING&lt;/i&gt; an existing attribute, then select&amp;nbsp;&lt;i&gt;DUPLICATE&lt;/i&gt;.&lt;/p&gt;&lt;p&gt;&lt;span&gt;Submit your ERD by clicking&amp;nbsp;&lt;/span&gt;&lt;i&gt;FILE&lt;/i&gt;&lt;span&gt; then &lt;/span&gt;&lt;i&gt;EXPORT AS&lt;/i&gt;&lt;span&gt; then&amp;nbsp;&lt;/span&gt;&lt;i&gt;PNG.&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;WARNING: Ed won&#39;t save your ERD. Regularly click &lt;i&gt;FILE &lt;/i&gt;then &lt;i&gt;SAVE &lt;/i&gt;for an editable format.&lt;/p&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;" vertex="1">
           <mxGeometry height="150" width="510" x="10" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="i5dplR1OYfq3saFVimfY-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" value="Regular Entity" vertex="1">
+          <mxGeometry height="182" width="140" x="80" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="i5dplR1OYfq3saFVimfY-2" parent="i5dplR1OYfq3saFVimfY-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=5" value="Identifier" vertex="1">
+          <mxGeometry height="26" width="140" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i5dplR1OYfq3saFVimfY-3" parent="i5dplR1OYfq3saFVimfY-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="Attribute" vertex="1">
+          <mxGeometry height="26" width="140" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="i5dplR1OYfq3saFVimfY-4" parent="i5dplR1OYfq3saFVimfY-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="Attribute" vertex="1">
+          <mxGeometry height="26" width="140" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="i5dplR1OYfq3saFVimfY-5" parent="i5dplR1OYfq3saFVimfY-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="Attribute" vertex="1">
+          <mxGeometry height="26" width="140" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="i5dplR1OYfq3saFVimfY-6" parent="i5dplR1OYfq3saFVimfY-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="Attribute" vertex="1">
+          <mxGeometry height="26" width="140" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="i5dplR1OYfq3saFVimfY-7" parent="i5dplR1OYfq3saFVimfY-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="Attribute" vertex="1">
+          <mxGeometry height="26" width="140" y="156" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
