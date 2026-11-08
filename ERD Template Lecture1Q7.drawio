@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="GUxE24pPK0IGaRTbN8Cr" name="Page-1">
-    <mxGraphModel dx="1872" dy="1177" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1680" dy="680" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -545,11 +545,6 @@
         <mxCell id="9lY77vgU6zJGWMOlo9Fd-120" edge="1" parent="1" source="9lY77vgU6zJGWMOlo9Fd-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;endArrow=ERmandOne;endFill=0;startArrow=ERzeroToMany;startFill=0;">
           <mxGeometry relative="1" x="-0.02" as="geometry">
             <mxPoint x="75" y="1206" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9lY77vgU6zJGWMOlo9Fd-121" connectable="0" parent="9lY77vgU6zJGWMOlo9Fd-120" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="publishes" vertex="1">
-          <mxGeometry relative="1" x="-0.48" y="1" as="geometry">
-            <mxPoint x="266" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9lY77vgU6zJGWMOlo9Fd-123" connectable="0" parent="9lY77vgU6zJGWMOlo9Fd-120" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="publishes" vertex="1">
